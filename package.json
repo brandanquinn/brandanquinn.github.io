@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "Brandan Quinn <bquinn2@ramapo.edu>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "scripts": {
+    "start": "cd client && yarn && yarn run build"
+  }
 }
