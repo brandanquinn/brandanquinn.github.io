@@ -1,0 +1,48 @@
+body { background: #D3FFCE }
+
+.portrait {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+
+h3 { 
+  color:#333333;
+  font: 35px arial, sans-serif;
+  text-shadow: 2px 2px #a8cca4;
+  text-align: center;
+}
+
+h4 {
+  color:#333333;
+  font: 25px arial, sans-serif;
+  text-shadow: 2px 2px #a8cca4;
+  text-align: center;
+}
+
+hr { border: 1px solid white; }
+
+.info {
+  background: white;
+  border: 2px solid #a8cca4;
+  border-radius: 25px;
+  display: block;
+  height: 100%;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+.page-break{ border: 1px solid #333333; }
+
+.page {
+  padding: 20px;
+  text-align: center;
+}
+
+.icon {
+  margin-right: 10px;
+}
+

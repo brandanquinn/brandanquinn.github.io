@@ -1,0 +1,9 @@
+{
+  "name": "resume-website",
+  "version": "1.0.0",
+  "description": "Resume Website",
+  "main": "index.js",
+  "author": "Brandan Quinn <bquinn2@ramapo.edu>",
+  "license": "MIT",
+  "dependencies": {}
+}
