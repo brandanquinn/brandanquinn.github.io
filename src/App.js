@@ -16,17 +16,17 @@ class App extends Component {
         <div className='info'>
           <div className='page columns'>
               <img className='icon column' src={linkedin} height='25px' width='25px' />
-              <a className='column' href='https://www.linkedin.com/in/brandan-quinn-7a3a8312b/' target='_blank'>My LinkedIn Profile</a>
+              <a className='column' href='https://www.linkedin.com/in/brandan-quinn-7a3a8312b/' target='_blank'>LinkedIn</a>
           </div>
           <hr className='page-break'/>
           <div className='page columns'>
               <img className='icon column' src={github} height='25px' width='25px' />
-              <a className='column' href='https://github.com/brandanquinn' target='_blank'>My GitHub Profile</a>
+              <a className='column' href='https://github.com/brandanquinn' target='_blank'>GitHub</a>
           </div>
           <hr className='page-break'/>
           <div className='page columns'>
               <img className='icon column' src={pdf} height='25px' width='25px' />
-              <a className='column' href='https://drive.google.com/file/d/1BdbKaWqBRg4q6XDgPVJvgWWb306nQovG/view?usp=sharing' target='_blank'>My Resume</a>
+              <a className='column' href='https://drive.google.com/file/d/1BdbKaWqBRg4q6XDgPVJvgWWb306nQovG/view?usp=sharing' target='_blank'>Resume</a>
           </div>
         </div>
       </div>
