@@ -7,6 +7,6 @@
   "license": "MIT",
   "dependencies": {},
   "scripts": {
-    "start": "cd client && yarn && yarn run build"
+    "start": "cd client && yarn start"
   }
 }
