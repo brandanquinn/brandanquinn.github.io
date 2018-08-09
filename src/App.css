@@ -25,7 +25,7 @@ hr { border: 1px solid white; }
 
 .info {
   background: white;
-  border: 2px solid #a8cca4;
+  border: 2px solid #83b2d1;
   border-radius: 25px;
   display: block;
   height: 100%;
@@ -46,7 +46,7 @@ hr { border: 1px solid white; }
   margin-right: 10px;
 }
 
-@media (max-width: 45rem) {
+@media (max-width: 60rem) {
   .info {
     width: 80%;
   }
