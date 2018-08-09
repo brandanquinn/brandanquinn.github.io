@@ -1,4 +1,4 @@
-body { background: #D3FFCE }
+body { background: #701f5f }
 
 .portrait {
   display: block;
@@ -8,16 +8,16 @@ body { background: #D3FFCE }
 }
 
 h3 { 
-  color:#333333;
+  color: white;
   font: 35px arial, sans-serif;
-  text-shadow: 2px 2px #a8cca4;
+  text-shadow: 2px 2px #333333;
   text-align: center;
 }
 
 h4 {
-  color:#333333;
+  color: white;
   font: 25px arial, sans-serif;
-  text-shadow: 2px 2px #a8cca4;
+  text-shadow: 2px 2px #333333;
   text-align: center;
 }
 
@@ -32,7 +32,6 @@ hr { border: 1px solid white; }
   margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  padding: 20px;
   width: 40%;
 }
 
@@ -47,3 +46,8 @@ hr { border: 1px solid white; }
   margin-right: 10px;
 }
 
+@media (max-width: 45rem) {
+  .info {
+    width: 80%;
+  }
+}
