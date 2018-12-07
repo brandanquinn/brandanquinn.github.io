@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://brandanquinn.github.io",
+  "homepage": "http://brandanquinn.github.io/src",
   "dependencies": {
     "bulma": "^0.7.1",
     "create-react-app": "^2.1.1",
