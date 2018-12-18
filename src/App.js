@@ -26,7 +26,7 @@ class App extends Component {
           <hr className='page-break'/>
           <div className='page columns'>
               <img className='icon column' src={pdf} height='25px' width='25px' />
-              <a className='column' href='https://drive.google.com/file/d/1BdbKaWqBRg4q6XDgPVJvgWWb306nQovG/view?usp=sharing' target='_blank'>My Resume</a>
+              <a className='column' href='https://drive.google.com/open?id=1BdbKaWqBRg4q6XDgPVJvgWWb306nQovG' target='_blank'>My Resume</a>
           </div>
         </div>
       </div>
