@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import portrait from './portrait.gif';
+import portrait from './portrait.jpg';
 import linkedin from './icons/linkedin-logo.png';
 import github from './icons/mark-github.svg';
 import pdf from './icons/adobe-pdf-icon.png';
